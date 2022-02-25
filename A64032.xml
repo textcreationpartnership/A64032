@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions of the counties of Buckingham and Hertford presented to His Excellencie S. Thomas Fairfax at S. Albans.</title>
+            <author>Buckinghamshire (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64032</idno>
+            <idno type="STC">Wing T3502</idno>
+            <idno type="STC">ESTC R23903</idno>
+            <idno type="EEBO-CITATION">07918830</idno>
+            <idno type="OCLC">ocm 07918830</idno>
+            <idno type="VID">40459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1216:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions of the counties of Buckingham and Hertford presented to His Excellencie S. Thomas Fairfax at S. Albans.</title>
+                  <author>Buckinghamshire (England)</author>
+                  <author>Hertfordshire.</author>
+               </titleStmt>
+               <extent>2, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Daniel,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40459:1"/>
+            <pb facs="tcp:40459:1" rendition="simple:additions"/>
+            <p>TWO PETITIONS of the Counties of <hi>B<g ref="char:V">Ʋ</g>CKINGHAM</hi> and <hi>HERTFORD,</hi> Preſented to his Excellencie <hi>S. THOMAS FAIRFAX at</hi> S. ALBANS.</p>
+            <p>
+               <hi>CAMBRIDGE:</hi> Printed by <hi>Roger Daniel,</hi> Printer to the <hi>Univerſitie.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:40459:2"/>
+            <pb n="1" facs="tcp:40459:2"/>
+            <head>TO His Excellency Sir <hi>Thomas Fairfax</hi> Knight, Generall of the Forces raiſed for the defence of the Kingdome, <hi>&amp;c.</hi> The humble Petition of the Inhabitants of the County of Buckingham-ſhire.</head>
+            <opener>May it pleaſe your Excellency,</opener>
+            <p>
+               <seg rend="decorInit">W</seg>E bleſſe God for you, as the Inſtrument whom he hath raiſed up, and made eminent in putting an end to the ſad and dreadfull warre, wherein this Kingdome was involved not many moneths ſince; our eyes are ſtill upon you, and our pray<g ref="char:EOLhyphen"/>ers for you, that God would crown your labours with an happy period of our miſeries, ending in the injoyment of our due and native liberties, which are the things we have choſen our fellow Subjects ſerving in Parliament to obtain for us. They are the things for which we have adventured our lives and eſtates free<g ref="char:EOLhyphen"/>ly, being the firſt county that appeared for them. They are the things we have ſo often petitioned for, and could not have ſo much as expected a delay of anſwer to theſe our juſt deſires.</p>
+            <p>But to our grief we ſpeak it, we have been rejected, and are become hopeleſſe of ſatisfaction, by ſome men who have not onely prevailed in diſcountenancing our juſt petitions (the pro<g ref="char:EOLhyphen"/>per way of the ſubjects addreſſes) but have almoſt made it a fault for the Subjects to petition even for things that are due to them both by common birth-right and the law of the Kingdome, and which frequently have been confirmed unto us by ſeverall or<g ref="char:EOLhyphen"/>dinances and Declarations of Parliament; we are not ignorant that even ſome men amongſt them, whom in due time we ſhall not ſtick to name, are ſuch as by their ſubtill thoughts have en<g ref="char:EOLhyphen"/>deavoured to render your Army odious to the Parliament and Kingdome, which rather then they ſhall not obtain, they will
+<pb n="2" facs="tcp:40459:3"/> not ſtick to inflame the Kingdome in a ſecond unneceſſary and unjuſt warre. That being the onely help under God left us, of having a firm peace ſettled in this Kingdome.</p>
+            <p>Theſe things being come to this paſſe, we take upon us the boldneſſe to beſeech your excellency, being a perſon whom your juſtice, courage, fidelity and zeal for the common good, have made eminent, and given ſo great an intereſt in the hearts and affections of all men who have any ſenſe of their common good and juſt liberties, That you will be pleaſed to mediate in our behalf to the honourable Court of Parliament, for the ob<g ref="char:EOLhyphen"/>taining of our ſo dear and near concernment: without the injoy<g ref="char:EOLhyphen"/>ment whereof even our lives will be uncomfortable to us.</p>
+            <p>And although this our addreſſe may ſeem ſtrange or hazard<g ref="char:EOLhyphen"/>ous unto you, yet we doubt not but the juſtice of our deſires will preſerve you. As for our own parts, we are reſolved in the me<g ref="char:EOLhyphen"/>diation hereof, to aſſiſt you to the uttermoſt of our power, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:40459:3"/>
+            <head>To the Right Noble His Excellencie Sir <hi>Thomas Fairfax,</hi> Captain Generall of the Forces raiſed for the pre<g ref="char:EOLhyphen"/>ſervation of the Kingdome: THE HUMBLE PETITION Of divers Knights, Gentlemen, Free<g ref="char:EOLhyphen"/>holders, and other Inhabitants of the County of <hi>HERTFORD.</hi>
+            </head>
+            <opener>May it pleaſe your Excellency,</opener>
+            <p>
+               <seg rend="decorInit">W</seg>E do with much thankfulneſſe acknowledge the great care and pains that have been un<g ref="char:EOLhyphen"/>dergone by thoſe our faithfull and well be<g ref="char:EOLhyphen"/>truſted Worthies of Parliament, who even in the ſaddeſt of times, when deſerted by many of their own Members, have not ſpared the hazard of their lives, eſtates, and fortunes, for the preſervation of the juſt Liberties, Immunities, and Franchiſes of the free-born Subjects of this Kingdome, being deſperately and ſtrongly invaded, by a powerfull and malignant party: And have alſo made many ſolemne proteſta<g ref="char:EOLhyphen"/>tions and declarations of their aimes, intents and purpoſes, whereby we have been greatly incouraged to yield all chearfull and due aſſiſtance in ſo neceſſary a work; yet now, to our great grief obſerving, by reaſon (as we conceive) of the machinati<g ref="char:EOLhyphen"/>ons and contrivances of ſome deſperately affected to the weal,
+<pb n="2" facs="tcp:40459:4"/> and quiet of the publick in generall, and to the honour of your ever honoured Army in particular, many obſtructions daily to intervene and f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in, whereby both they and we, notwithſtan<g ref="char:EOLhyphen"/>ding the ſtill reall intentions of our forenamed worthies, are as yet clea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly debarred the fruition of theſe our often promiſed, much wiſht for, prayed for, fought f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, rights and priviledges, whereof we had <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll hope long ſince to have been partakers:</p>
+            <p>Wherefore we your ſaid Petitioners do moſt humbly intreat and beſeech your Excellency, whom God hath eminently and highly honoured, &amp; we wel know to have a tender &amp; compaſſi<g ref="char:EOLhyphen"/>onate care over the diſtreſſes of this miſerable afflicted King<g ref="char:EOLhyphen"/>dome, to uſe your utmoſt endeavours withal expedition, before the disbanding of the Army now under your Excellencies com<g ref="char:EOLhyphen"/>mand, that thoſe Firebrands and Incendiaries, who have endea<g ref="char:EOLhyphen"/>voured new diviſions in the Kingdome or by their ſlanderous tongues to fix undeſerved reproches upon the Army, may be brought to condigne puniſhment, and that we your Petitioners, with the reſt of our faithfull brethren in the Kingdome may have a certain relief in our grievances hereunto annexed.</p>
+            <q>And as in duty bound, we ſhall not fail to yield our beſt aſſiſtance with our perſons, purſes, and prayers.</q>
+            <p n="1">I. That divers Counties and Corporations in this Kingdome viz. Devonſhire, Cornwall, Wales, formerly in open hoſtility &amp; for the preſent wholly diſaff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted to the proceedings of Par<g ref="char:EOLhyphen"/>liament, have notwithſtanding retained eq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally with the moſt cordiall to the State, their priviledges of electing members, a thing very deſtructive to the ſafety of the Common-wealth, which is the chief end of Parliaments, and one main cauſe of many preſent grievances; Wherefore we deſire that ſuch Ele<g ref="char:EOLhyphen"/>ctions may be revoked, and the place declared uncapable of any
+<pb n="3" facs="tcp:40459:4"/> ſuch priviledge, during the ſeſſions of this Parliament, or untill ſuch time as it ſhall appear that their former enmity and rancor againſt the Parliament be laid aſide.</p>
+            <p n="2">II. That whereas the honourable houſes have raiſed up the expectations of the well affected, by promiſing the improve<g ref="char:EOLhyphen"/>ment of their time and care to apply remedies againſt their preſ<g ref="char:EOLhyphen"/>ſing evils, as appears more fully in their declaration, the 17. of April, 1646. yet the ſaid Commons have to their great grief been fruſtrated of their hopes, and inſtead of being relieved, have to their great grief been vexed, impriſoned, and otherwiſe moleſted.</p>
+            <p n="3">III. Our Petitions to the Parliament are not as in former times either received or anſwered, whereby no redreſſe can be had to our preſſing grievances, as in particular thoſe againſt tythes, that for the enlargement of our fellow Commoners, long, and, as we humbly conceive, unduely detained in priſon.</p>
+            <p n="4">IV. The putting in of M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lignants, Neuters, and perſons who have not ſhewen any affection or done any ſervice for the Par<g ref="char:EOLhyphen"/>liament during theſe troubles that have layen upon the King<g ref="char:EOLhyphen"/>dome, into places of honour truſt and profit, as governours of Towns, Caſtles, Forts, Juſtices of peace, Commiſſioners of Exciſe, Committees of Accounts, &amp;c. whereby the moſt cor<g ref="char:EOLhyphen"/>diall friends of the Parliament are ſlighted, diſregarded, and up<g ref="char:EOLhyphen"/>on very ſlender cauſes indicted, committed, impriſoned.</p>
+            <p n="5">V. That the body of the Kingdome conſiſting much of Co<g ref="char:EOLhyphen"/>pyholders, who for the moſt part have been very cordiall and faithfull to the Parliament, may not now be left finable at the will of the lord, in regard the generality of them have been ve<g ref="char:EOLhyphen"/>ry malignant, and much diſ-affected to a Parliamentary or through reform<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion; and from whom they cannot but expect very ſevere dealing.</p>
+            <p n="6">VI. That all men who have received any State-moneys, as well Parliament men as others, may be called to an account
+<pb n="4" facs="tcp:40459:5"/> for ſuch moneys. And that Committees (not as now for the moſt part Neuters or Malignants but) of approved fidelity may be elected for that purpoſe.</p>
+            <p n="7">VII. That one Cordwell a man of a moſt notorious lewd life &amp; converſation, &amp; withall a moſt deſperate Malignant, did pro<g ref="char:EOLhyphen"/>cure a Warrant for the apprehending three Souldiers under the command of Col. Albom Cox, brought them before one King of S. Albanes a Juſtice of Peace, where their ſaid Colonell did appear with them, and made it very clear and apparent to the ſaid Juſtice that what they did was by command from their Captain, and no more then what was expreſly contained within their Ordinance, which the ſaid Juſtice did acknowledge, and was fully ſatisfied in their Ordinances, authorizing them there<g ref="char:EOLhyphen"/>unto, yet notwithſtanding the ſaid King would have committed them to Hertford Goale, had not their ſaid Colonell and Ca<g ref="char:EOLunhyphen"/>ptain become bound for their appearing at the next Seſſions. And the ſaid Cordwell did preferre a bill of Indictment againſt them, and had it not been for two or three honeſt men that ſerved of the Grand Jury, the ſaid bill had been found to the great perill of the lives of the ſaid Souldiers, there being but little favour or mercy to be had for Parliament Souldiers by the Juſtices of our County.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40459:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
